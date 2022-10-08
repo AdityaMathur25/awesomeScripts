@@ -67,6 +67,14 @@ before making a Pull Request:
   <img src="https://contrib.rocks/image?repo=codePerfectPlus/awesomeScripts" />
 </a>
 
+## 🙏🏽 Support
+
+This project needs a star️ from you. Don't forget to leave a star✨
+
+## Additional references added by contributors
+
+GitHub license explained [https://choosealicense.com](https://choosealicense.com)
+
 ## Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/codePerfectPlus/awesomeScripts.svg)](https://starchart.cc/codePerfectPlus/awesomeScripts)
@@ -79,3 +87,6 @@ before making a Pull Request:
 <a href="https://api.github.com/repos/py-contributors/awesomescripts/contributors"><img src="http://ForTheBadge.com/images/badges/built-by-developers.svg" alt="built by developers"></a>
 <a href="https://github.com/codePerfectPlus"><img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="built with love"></a>
 </p>
+
+
+
