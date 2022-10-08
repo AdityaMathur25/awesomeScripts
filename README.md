@@ -67,6 +67,13 @@ before making a Pull Request:
   <img src="https://contrib.rocks/image?repo=codePerfectPlus/awesomeScripts" />
 </a>
 
+## 🙏🏽 Support
+
+This project needs a star️ from you. Don't forget to leave a star✨
+
+## Additional references added by contributors
+
+GitHub license explained [https://choosealicense.com](https://choosealicense.com)
 ## Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/codePerfectPlus/awesomeScripts.svg)](https://starchart.cc/codePerfectPlus/awesomeScripts)
